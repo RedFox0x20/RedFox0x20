@@ -28,6 +28,7 @@
 	<ul>
 		<li><a href="https://github.com/RedFox0x20/RedFox32.xyz" target="_blank">redfox32.xyz</a> - The public website source repository for redfox32.xyz</li>
 		<li><a href="https://github.com/RedFox0x20/Suckless-software" target="_blank">Suckless software</a> - A collection of the suckless software I use with the additional patches</li>
+		<li><a href="https://github.com/RedFox0x20/Barry" target="_blank">Barry</a> - Something useless, a strange esoteric interpreter of some description?</li>
 	</ul>
 </div>
 
