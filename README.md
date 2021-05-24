@@ -1,4 +1,5 @@
 <h1>RedFox0x20</h1>
+<p>If you would like to suggest a project for me to develop please use the Project Suggestion issue templace</p>
 <div>
 	<h3>OS Development Projects</h3>
 	<p>
