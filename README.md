@@ -22,7 +22,7 @@
 </div>
 
 <div>
-	<h3>Misculaneous Projects</h3>
+	<h3>Miscellaneous Projects</h3>
 	<p>An assortment of projects that may be parts of my learning or may just be of interest to you</p>
 	<ul>
 		<li><a href="https://github.com/RedFox0x20/RedFox32.xyz" target="_blank">redfox32.xyz</a> - The public website source repository for redfox32.xyz</li>
