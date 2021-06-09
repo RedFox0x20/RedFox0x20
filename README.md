@@ -17,7 +17,7 @@
 	<p>Garry's Mod is a creative game originally a mod for the Half Life series written using the Source Engine. Garry's Mod allows for the creation of new gamemodes and modifications using LUA addons, here's a few that I have made.</p>
 	<ul>
 		<li><a href="https://github.com/RedFox0x20/GMOD-Custom-Crosshairs" target="_blank">Custom Crosshairs</a> - Allow players to modify their crosshair from a selection of styles and settings</li>
-		<li><a href="https://github.com/RedFox0x20/GMOD-TTT-DefaultMap" target="_blank">TTT Default Map</a> - Set a default map for a server to switch too when all players have disconnected or are all spectators</li>
+		<li><a href="https://github.com/RedFox0x20/GMOD-TTT-DefaultMap" target="_blank">TTT Default Map</a> - [Archived] Set a default map for a server to switch too when all players have disconnected or are all spectators</li>
 		<li><a href="https://github.com/RedFox0x20/GMOD-TTT-Deathscreen" target="_blank">TTT Deathscreen</a> - Display a death message telling the player who killed them and with what weapon</li>
 		<li><a href="https://github.com/RedFox0x20/GMOD-BattleBots" target="_blank">Battlebots</a> - An RTS gamemode for Garry's mod, pitching players against eachother in a battle of the bots!</li>
 	</ul>
@@ -29,23 +29,11 @@
 	<ul>
 		<li><a href="https://github.com/RedFox0x20/RedFox32.xyz" target="_blank">redfox32.xyz</a> - The public website source repository for redfox32.xyz</li>
 		<li><a href="https://github.com/RedFox0x20/Suckless-software" target="_blank">Suckless software</a> - A collection of the suckless software I use with the additional patches</li>
-</div>
-
-<div>
-	<h3>Archived Projects</h3>
-	<p>
-		These projects primarily existed as I learnt new programming methods, paradigms, languages and for a variety of other reasons.
-		<br>
-		None of these projects are maintained and their GitHub status has been set to Archived.
-		<br>
-		Some of these repositories state why they were built and at what stage of my learning I was in however, most do not.
-	</p>
-	<ul>
-		<li><a href="https://github.com/RedFox0x20/GOWS" target="_blank">GOWS</a> - [C] A Get Only Web Server featuring basic security ideas with old internet jokes</li>
-		<li><a href="https://github.com/RedFox0x20/SpriteMapSplitter" target="_blank">Sprite Map Splitter</a> - [C#] Used to split a single image into many smaller images, designed for spritesheets</li>
-		<li><a href="https://github.com/RedFox0x20/LibNetworking" target="_blank">LibNetworking</a> - [C#] A simple networking abstraction that was produced while learning C#</li>
-		<li><a href="https://github.com/RedFox0x20/HueControl" target="_blank">HueControl</a> - [Shell] A set of scripts for use within BASH to allow terminal control of Phillips Hue Lightbulbs</li>
-		<li><a href="https://github.com/RedFox0x20/Barry" target="_blank">Barry</a> - [C] Something useless, a strange esoteric interpreter of some description?</li>
+		<li><a href="https://github.com/RedFox0x20/GOWS" target="_blank">GOWS</a> - [Archived - C] A Get Only Web Server featuring basic security ideas with old internet jokes</li>
+		<li><a href="https://github.com/RedFox0x20/SpriteMapSplitter" target="_blank">Sprite Map Splitter</a> - [Archived - C#] Used to split a single image into many smaller images, designed for spritesheets</li>
+		<li><a href="https://github.com/RedFox0x20/LibNetworking" target="_blank">LibNetworking</a> - [Archived - C#] A simple networking abstraction that was produced while learning C#</li>
+		<li><a href="https://github.com/RedFox0x20/HueControl" target="_blank">HueControl</a> - [Archived - Shell] A set of scripts for use within BASH to allow terminal control of Phillips Hue Lightbulbs</li>
+		<li><a href="https://github.com/RedFox0x20/Barry" target="_blank">Barry</a> - [Archived - C] Something useless, a strange esoteric interpreter of some description?</li>
 	</ul>
 	</ul>
 </div>
