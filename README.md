@@ -19,6 +19,7 @@
 		<li><a href="https://github.com/RedFox0x20/GMOD-Custom-Crosshairs" target="_blank">Custom Crosshairs</a> - Allow players to modify their crosshair from a selection of styles and settings</li>
 		<li><a href="https://github.com/RedFox0x20/GMOD-TTT-DefaultMap" target="_blank">TTT Default Map</a> - Set a default map for a server to switch too when all players have disconnected or are all spectators</li>
 		<li><a href="https://github.com/RedFox0x20/GMOD-TTT-Deathscreen" target="_blank">TTT Deathscreen</a> - Display a death message telling the player who killed them and with what weapon</li>
+		<li><a href="https://github.com/RedFox0x20/GMOD-BattleBots" target="_blank">Battlebots</a> - An RTS gamemode for Garry's mod, pitching players against eachother in a battle of the bots!</li>
 	</ul>
 </div>
 
