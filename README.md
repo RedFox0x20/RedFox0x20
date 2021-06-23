@@ -7,8 +7,9 @@
 	</p>
 	<ul>
 		<li><a href="https://github.com/RedFox0x20/RedFox32" target="_blank">RedFox32</a> - All OS elements combined</li>
-		<li><a href="https://github.com/RedFox0x20/BootFox32" target="_blank">BootFox32</a> - Bootloader design and development, designed with the FileFox32 FS</li>
-		<li><a href="https://github.com/RedFox0x20/FileFox32" target="_blank">FileFox32</a> - File system design and development</li>
+		<li><a href="https://github.com/RedFox0x20/RedFox32_Bootloader" target="_blank">RedFox32_Bootloader</a> - Bootloader design and development, designed with the RedFox32 Filesystem FS</li>
+		<li><a href="https://github.com/RedFox0x20/RedFox32_Filesystem" target="_blank">RedFox32_Filesystem</a> - File system design and development</li>
+		<li><a href="https://github.com/RedFox0x20/RedFox32_Kernel" target="_blank">RedFox32_Kernel</a> - The OS Kernel, an important element!</li>
 	</ul>
 </div>
 
