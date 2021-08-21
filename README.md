@@ -38,3 +38,7 @@
 	</ul>
 	</ul>
 </div>
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedFox0x20)](https://github.com/RedFox0x20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFox0x20&show_icons=true&theme=radical)
