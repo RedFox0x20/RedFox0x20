@@ -1,5 +1,7 @@
 <h1>RedFox0x20</h1>
 <p>If you would like to suggest a project for me to develop please use the <a href="https://github.com/RedFox0x20/RedFox0x20/issues/new?assignees=RedFox0x20&labels=Suggestion&template=project-suggestion.md&title=Project+suggestion%3A+%3CName%3E" target="_blank">Project Suggestion issue template</a></p>
+<h2>Contribtions</h2>
+<p>You can learn about the Open Source Projects I am involved in with <a href="https://github.com/RedFox0x20/RedFox0x20/blob/master/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a></p>
 <div>
 	<h3>OS Development Projects</h3>
 	<p>
