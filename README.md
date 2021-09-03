@@ -1,8 +1,15 @@
 <h1>RedFox0x20 @ <a href="https://www.redfox0x20.xyz/">RedFox0x20.xyz</a></h1>
+<p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website!</p>
+<ul>
+	<li>Main page: <a href="https://www.redfox0x20.xyz/" target="_blank">https://www.redfox0x20.xyz/</a></li>
+	<li>Amateur radio: <a href="https://m7tws.redfox0x20.xyz/" target="_blank">https://m7tws.redfox0x20.xyz/</a></li>
+	<li>Weather Satellite images: <a href="https://m7tws.redfox0x20.xyz/wx-captures">https://m7tws.redfox0x20.xyz/wx-captures</a></li>
+</ul>
 <p>If you would like to suggest a project for me to develop please use the <a href="https://github.com/RedFox0x20/RedFox0x20/issues/new?assignees=RedFox0x20&labels=Suggestion&template=project-suggestion.md&title=Project+suggestion%3A+%3CName%3E" target="_blank">Project Suggestion issue template</a></p>
 <h2>Contributions</h2>
 <p>You can learn about the Open Source Projects I am involved in with <a href="https://github.com/RedFox0x20/RedFox0x20/blob/master/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a></p>
 <div>
+	<h2>Projects</h2>
 	<h3>OS Development Projects</h3>
 	<p>
 		The RedFox32 OS Development repositories is one of the largest projects I have undertaken to date. The project is nowhere near completion and probably won't be for a long time. These projects aim for very in depth learning about modern computer systems and how software for them can be written. During the development of these projects, documentation will be produced to allow future developers to learn from what I did and from what others did. OS Development is a very niche area of the programming world, many sources of documentation are very outdated and as such becoming harder and harder to find online. I aim to bring the knowledge back from the depths of the internet and store it here.
