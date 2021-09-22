@@ -5,6 +5,9 @@
 	<li>Amateur radio: <a href="https://m7tws.redfox0x20.xyz/" target="_blank">https://m7tws.redfox0x20.xyz/</a></li>
 	<li>Weather Satellite images: <a href="https://m7tws.redfox0x20.xyz/wx-captures">https://m7tws.redfox0x20.xyz/wx-captures</a></li>
 </ul>
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/RedFox0x20.png)
+
 <p>If you would like to suggest a project for me to develop please use the <a href="https://github.com/RedFox0x20/RedFox0x20/issues/new?assignees=RedFox0x20&labels=Suggestion&template=project-suggestion.md&title=Project+suggestion%3A+%3CName%3E" target="_blank">Project Suggestion issue template</a></p>
 <h2>Contributions</h2>
 <p>You can learn about the Open Source Projects I am involved in with <a href="https://github.com/RedFox0x20/RedFox0x20/blob/master/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a></p>
