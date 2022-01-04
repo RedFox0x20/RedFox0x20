@@ -1,5 +1,5 @@
 <h1>RedFox0x20 @ <a href="https://www.redfox0x20.xyz/">RedFox0x20.xyz</a></h1>
-<p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span>Website status: Unavailable</span></p>
+<p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span style="color:red;">Website status: Unavailable</span></p>
 <ul>
 	<li>Main page: <a href="https://www.redfox0x20.xyz/" target="_blank">https://www.redfox0x20.xyz/</a></li>
 	<li>Amateur radio: <a href="https://m7tws.redfox0x20.xyz/" target="_blank">https://m7tws.redfox0x20.xyz/</a></li>
