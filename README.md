@@ -1,9 +1,7 @@
-<h1>RedFox0x20 @ <a href="https://www.redfox0x20.xyz/">RedFox0x20.xyz</a></h1>
+<h1>RedFox0x20</h1>
 <p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span style="color:red;">Website status: Unavailable</span></p>
 <ul>
-	<li>Main page: <a href="https://www.redfox0x20.xyz/" target="_blank">https://www.redfox0x20.xyz/</a></li>
-	<li>Amateur radio: <a href="https://m7tws.redfox0x20.xyz/" target="_blank">https://m7tws.redfox0x20.xyz/</a></li>
-	<li>Weather Satellite images: <a href="https://m7tws.redfox0x20.xyz/wx-captures">https://m7tws.redfox0x20.xyz/wx-captures</a></li>
+	<li>Main page: <a href="https://www.redfox0x20.uk:20443/" target="_blank">https://www.redfox0x20.uk/</a></li>
 </ul>
 
 <h3>Other links</h3>
@@ -43,7 +41,6 @@
 	<h3>Miscellaneous Projects</h3>
 	<p>An assortment of projects that may be parts of my learning or may just be of interest to you</p>
 	<ul>
-		<li><a href="https://github.com/RedFox0x20/RedFox32.xyz" target="_blank">redfox32.xyz</a> - The public website source repository for redfox32.xyz</li>
 		<li><a href="https://github.com/RedFox0x20/Suckless-software" target="_blank">Suckless software</a> - A collection of the suckless software I use with the additional patches</li>
 		<li><a href="https://github.com/RedFox0x20/GOWS" target="_blank">GOWS</a> - [Archived - C] A Get Only Web Server featuring basic security ideas with old internet jokes</li>
 		<li><a href="https://github.com/RedFox0x20/SpriteMapSplitter" target="_blank">Sprite Map Splitter</a> - [Archived - C#] Used to split a single image into many smaller images, designed for spritesheets</li>
