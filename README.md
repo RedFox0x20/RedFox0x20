@@ -1,5 +1,6 @@
 <h1>RedFox0x20</h1>
 <p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span style="color:red;">Website status: Outdated</span></p>
+<p>Much of my code is no-longer public, sorry! :)</p>
 <ul>
 	<li>Main page: <a href="https://redfox0x20.uk" target="_blank">https://www.redfox0x20.uk/</a></li>
 	<li>Amateur radio: <a href="https://m7tws.uk" target="_blank">https://redfox0x20.uk/</li>
