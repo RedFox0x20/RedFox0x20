@@ -1,7 +1,8 @@
 <h1>RedFox0x20</h1>
-<p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span style="color:red;">Website status: Unavailable</span></p>
+<p>Hi there! I'm Red, a developer of some kind that also plays with the infosec community... I'm also an amateur radio operator. You can find out more on my website! <span style="color:red;">Website status: Outdated</span></p>
 <ul>
-	<li>Main page: <a href="https://www.redfox0x20.uk:20443/" target="_blank">https://www.redfox0x20.uk/</a></li>
+	<li>Main page: <a href="https://redfox0x20.uk" target="_blank">https://www.redfox0x20.uk/</a></li>
+	<li>Amateur radio: <a href="https://m7tws.uk" target="_blank">https://redfox0x20.uk/</li>
 </ul>
 
 <h3>Other links</h3>
@@ -9,7 +10,6 @@
 	<li><a href="https://tryhackme.com/p/RedFox0x20" target="_blank">TryHackMe</a></li>
 </ul>
 
-<p>If you would like to suggest a project for me to develop please use the <a href="https://github.com/RedFox0x20/RedFox0x20/issues/new?assignees=RedFox0x20&labels=Suggestion&template=project-suggestion.md&title=Project+suggestion%3A+%3CName%3E" target="_blank">Project Suggestion issue template</a></p>
 <h2>Contributions</h2>
 <p>You can learn about the Open Source Projects I am involved in with <a href="https://github.com/RedFox0x20/RedFox0x20/blob/master/CONTRIBUTIONS.md">CONTRIBUTIONS.md</a></p>
 <div>
